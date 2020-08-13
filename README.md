@@ -16,5 +16,3 @@
 - 简单DQN实例
 
 #### OpenAI Gym学习没写多少，可以自己去看OpenAI baseline
-----
-if you have any question or confusion，you can sent an e-mail to [**leishiye@gmail.com**](leishiye@gmail.com) 
